@@ -96,10 +96,16 @@ exports.seed = function(knex, Promise) {
         hometown:'Littleton, CO'
         },
         {
-        firstName:'Levi',
+        firstName:'Austin',
         lastName:'Loveless',
         previousOccupation:'Navy',
         hometown:'Long Beach'
+        },
+        {
+        firstName:'Levi',
+        lastName:'Boenish',
+        previousOccupation:'Manager',
+        hometown:'Boulder'
         }
         ]);
     });
